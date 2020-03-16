@@ -1,0 +1,6 @@
+framework module Pods_StackOverflowDemoTests {
+  umbrella header "Pods-StackOverflowDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

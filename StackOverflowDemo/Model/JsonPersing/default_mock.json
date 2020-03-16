@@ -1,0 +1,882 @@
+{
+  "items": [
+    {
+      "tags": [
+        "java",
+        "c++",
+        "performance",
+        "optimization",
+        "branch-prediction"
+      ],
+      "owner": {
+        "reputation": 430064,
+        "user_id": 87234,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/FkjBe.png?s=128&g=1",
+        "display_name": "GManNickG",
+        "link": "https://stackoverflow.com/users/87234/gmannickg"
+      },
+      "is_answered": true,
+      "view_count": 1469567,
+      "protected_date": 1399067470,
+      "accepted_answer_id": 11227902,
+      "answer_count": 26,
+      "score": 24158,
+      "last_activity_date": 1582286677,
+      "creation_date": 1340805096,
+      "last_edit_date": 1569980131,
+      "question_id": 11227809,
+      "link": "https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array",
+      "title": "Why is processing a sorted array faster than processing an unsorted array?"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "git-commit",
+        "undo",
+        "pre-commit"
+      ],
+      "owner": {
+        "reputation": 46588,
+        "user_id": 89904,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/4fef65cead13e5d519f6bce3c501a537?s=128&d=identicon&r=PG",
+        "display_name": "Hamza Yerlikaya",
+        "link": "https://stackoverflow.com/users/89904/hamza-yerlikaya"
+      },
+      "is_answered": true,
+      "view_count": 8447152,
+      "protected_date": 1370840488,
+      "accepted_answer_id": 927386,
+      "answer_count": 83,
+      "community_owned_date": 1363428511,
+      "score": 20698,
+      "last_activity_date": 1584035957,
+      "creation_date": 1243620554,
+      "last_edit_date": 1573733077,
+      "question_id": 927358,
+      "link": "https://stackoverflow.com/questions/927358/how-do-i-undo-the-most-recent-local-commits-in-git",
+      "title": "How do I undo the most recent local commits in Git?"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "git-branch",
+        "git-push",
+        "git-remote"
+      ],
+      "owner": {
+        "reputation": 368805,
+        "user_id": 95592,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://i.stack.imgur.com/utY5u.jpg?s=128&g=1",
+        "display_name": "Matthew Rankin",
+        "link": "https://stackoverflow.com/users/95592/matthew-rankin"
+      },
+      "is_answered": true,
+      "view_count": 8041720,
+      "protected_date": 1358718496,
+      "accepted_answer_id": 2003515,
+      "answer_count": 39,
+      "score": 16666,
+      "last_activity_date": 1583663577,
+      "creation_date": 1262653935,
+      "last_edit_date": 1577357175,
+      "question_id": 2003505,
+      "link": "https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely",
+      "title": "How do I delete a Git branch locally and remotely?"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "git-pull",
+        "git-fetch"
+      ],
+      "owner": {
+        "reputation": 241331,
+        "user_id": 6068,
+        "user_type": "registered",
+        "accept_rate": 65,
+        "profile_image": "https://www.gravatar.com/avatar/931970b8dc51b72e05e3a12b88612d61?s=128&d=identicon&r=PG",
+        "display_name": "pupeno",
+        "link": "https://stackoverflow.com/users/6068/pupeno"
+      },
+      "is_answered": true,
+      "view_count": 2757474,
+      "protected_date": 1362879044,
+      "accepted_answer_id": 292359,
+      "answer_count": 35,
+      "score": 11728,
+      "last_activity_date": 1584036101,
+      "creation_date": 1226742669,
+      "last_edit_date": 1583158189,
+      "question_id": 292357,
+      "link": "https://stackoverflow.com/questions/292357/what-is-the-difference-between-git-pull-and-git-fetch",
+      "title": "What is the difference between &#39;git pull&#39; and &#39;git fetch&#39;?"
+    },
+    {
+      "tags": [
+        "json",
+        "http-headers",
+        "content-type"
+      ],
+      "owner": {
+        "reputation": 201290,
+        "user_id": 12870,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/f0af40756420859b5b63cbceb6d30505?s=128&d=identicon&r=PG",
+        "display_name": "Oli",
+        "link": "https://stackoverflow.com/users/12870/oli"
+      },
+      "is_answered": true,
+      "view_count": 2739384,
+      "protected_date": 1435276338,
+      "accepted_answer_id": 477819,
+      "answer_count": 35,
+      "score": 10133,
+      "last_activity_date": 1575004674,
+      "creation_date": 1232897119,
+      "last_edit_date": 1556823229,
+      "question_id": 477816,
+      "link": "https://stackoverflow.com/questions/477816/what-is-the-correct-json-content-type",
+      "title": "What is the correct JSON content type?"
+    },
+    {
+      "tags": [
+        "python",
+        "iterator",
+        "generator",
+        "yield",
+        "coroutine"
+      ],
+      "owner": {
+        "reputation": 112744,
+        "user_id": 18300,
+        "user_type": "registered",
+        "accept_rate": 92,
+        "profile_image": "https://i.stack.imgur.com/jcyI4.jpg?s=128&g=1",
+        "display_name": "Alex. S.",
+        "link": "https://stackoverflow.com/users/18300/alex-s"
+      },
+      "is_answered": true,
+      "view_count": 2171921,
+      "protected_date": 1360547307,
+      "accepted_answer_id": 231855,
+      "answer_count": 40,
+      "score": 9939,
+      "last_activity_date": 1583490182,
+      "creation_date": 1224800471,
+      "last_edit_date": 1582751053,
+      "question_id": 231767,
+      "link": "https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do",
+      "title": "What does the &quot;yield&quot; keyword do?"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "git-commit",
+        "git-stage"
+      ],
+      "owner": {
+        "reputation": 121731,
+        "user_id": 14069,
+        "user_type": "registered",
+        "accept_rate": 72,
+        "profile_image": "https://www.gravatar.com/avatar/0c29cc6ee1c170810ee1fd36fa7c2f95?s=128&d=identicon&r=PG",
+        "display_name": "paxos1977",
+        "link": "https://stackoverflow.com/users/14069/paxos1977"
+      },
+      "is_answered": true,
+      "view_count": 2969090,
+      "protected_date": 1359649207,
+      "accepted_answer_id": 348234,
+      "answer_count": 32,
+      "score": 8786,
+      "last_activity_date": 1572789573,
+      "creation_date": 1228687066,
+      "last_edit_date": 1572786226,
+      "question_id": 348170,
+      "link": "https://stackoverflow.com/questions/348170/how-do-i-undo-git-add-before-commit",
+      "title": "How do I undo &#39;git add&#39; before commit?"
+    },
+    {
+      "tags": [
+        "c++",
+        "c",
+        "operators",
+        "code-formatting",
+        "standards-compliance"
+      ],
+      "owner": {
+        "reputation": 430064,
+        "user_id": 87234,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://i.stack.imgur.com/FkjBe.png?s=128&g=1",
+        "display_name": "GManNickG",
+        "link": "https://stackoverflow.com/users/87234/gmannickg"
+      },
+      "is_answered": true,
+      "view_count": 772211,
+      "protected_date": 1297320482,
+      "accepted_answer_id": 1642035,
+      "answer_count": 22,
+      "community_owned_date": 1262233068,
+      "score": 8776,
+      "last_activity_date": 1581889162,
+      "creation_date": 1256799465,
+      "last_edit_date": 1578075972,
+      "question_id": 1642028,
+      "link": "https://stackoverflow.com/questions/1642028/what-is-the-operator-in-c",
+      "title": "What is the &quot;--&gt;&quot; operator in C++?"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "git-branch"
+      ],
+      "owner": {
+        "reputation": 91227,
+        "user_id": 338204,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/c145a12cd17d3b3ffff033681a694abe?s=128&d=identicon&r=PG",
+        "display_name": "Forrest",
+        "link": "https://stackoverflow.com/users/338204/forrest"
+      },
+      "is_answered": true,
+      "view_count": 2739446,
+      "protected_date": 1498428177,
+      "accepted_answer_id": 6591218,
+      "answer_count": 30,
+      "score": 8278,
+      "last_activity_date": 1583639683,
+      "creation_date": 1309922436,
+      "last_edit_date": 1573954267,
+      "question_id": 6591213,
+      "link": "https://stackoverflow.com/questions/6591213/how-do-i-rename-a-local-git-branch",
+      "title": "How do I rename a local Git branch?"
+    },
+    {
+      "tags": [
+        "memory-management",
+        "stack",
+        "language-agnostic",
+        "heap",
+        "dynamic-memory-allocation"
+      ],
+      "owner": {
+        "reputation": 79949,
+        "user_id": 13161,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e3dcbde38b1f70c77b1db642f31a223d?s=128&d=identicon&r=PG",
+        "display_name": "mattshane",
+        "link": "https://stackoverflow.com/users/13161/mattshane"
+      },
+      "is_answered": true,
+      "view_count": 1481014,
+      "protected_date": 1315942395,
+      "accepted_answer_id": 80113,
+      "answer_count": 25,
+      "score": 7992,
+      "last_activity_date": 1583973431,
+      "creation_date": 1221625086,
+      "last_edit_date": 1554876185,
+      "question_id": 79923,
+      "link": "https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap",
+      "title": "What and where are the stack and heap?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "arrays"
+      ],
+      "owner": {
+        "reputation": 88653,
+        "user_id": 364969,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/79e7cefc9e7deb0e0bf422baa1a38a2c?s=128&d=identicon&r=PG",
+        "display_name": "Walker",
+        "link": "https://stackoverflow.com/users/364969/walker"
+      },
+      "is_answered": true,
+      "view_count": 6398243,
+      "protected_date": 1418673600,
+      "accepted_answer_id": 5767357,
+      "answer_count": 96,
+      "score": 7982,
+      "last_activity_date": 1583726892,
+      "creation_date": 1303597038,
+      "last_edit_date": 1583678719,
+      "question_id": 5767325,
+      "link": "https://stackoverflow.com/questions/5767325/how-can-i-remove-a-specific-item-from-an-array",
+      "title": "How can I remove a specific item from an array?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "redirect"
+      ],
+      "owner": {
+        "reputation": 100057,
+        "user_id": 44984,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://i.stack.imgur.com/7rqob.jpg?s=128&g=1",
+        "display_name": "venkatachalam",
+        "link": "https://stackoverflow.com/users/44984/venkatachalam"
+      },
+      "is_answered": true,
+      "view_count": 6113001,
+      "protected_date": 1447333882,
+      "accepted_answer_id": 506004,
+      "answer_count": 58,
+      "score": 7724,
+      "locked_date": 1522910705,
+      "last_activity_date": 1569432727,
+      "creation_date": 1233579256,
+      "last_edit_date": 1517920814,
+      "question_id": 503093,
+      "link": "https://stackoverflow.com/questions/503093/how-do-i-redirect-to-another-webpage",
+      "title": "How do I redirect to another webpage?"
+    },
+    {
+      "tags": [
+        "git",
+        "git-commit",
+        "git-rewrite-history",
+        "amend"
+      ],
+      "owner": {
+        "reputation": 124326,
+        "user_id": 7473,
+        "user_type": "registered",
+        "accept_rate": 58,
+        "profile_image": "https://www.gravatar.com/avatar/9218dd1115bc620ec1ea79fd0368da8e?s=128&d=identicon&r=PG",
+        "display_name": "Laurie Young",
+        "link": "https://stackoverflow.com/users/7473/laurie-young"
+      },
+      "is_answered": true,
+      "view_count": 2517082,
+      "protected_date": 1364934455,
+      "accepted_answer_id": 179147,
+      "answer_count": 27,
+      "score": 7665,
+      "locked_date": 1434955517,
+      "last_activity_date": 1579075228,
+      "creation_date": 1223394287,
+      "last_edit_date": 1556792162,
+      "question_id": 179123,
+      "link": "https://stackoverflow.com/questions/179123/how-to-modify-existing-unpushed-commit-messages",
+      "title": "How to modify existing, unpushed commit messages?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "function",
+        "variables",
+        "scope",
+        "closures"
+      ],
+      "owner": {
+        "reputation": 471751,
+        "user_id": 9951,
+        "user_type": "registered",
+        "accept_rate": 78,
+        "profile_image": "https://www.gravatar.com/avatar/1449ec95d8c114dbca53136cc8194b61?s=128&d=identicon&r=PG&f=1",
+        "display_name": "e-satis",
+        "link": "https://stackoverflow.com/users/9951/e-satis"
+      },
+      "is_answered": true,
+      "view_count": 1413813,
+      "protected_date": 1316450131,
+      "accepted_answer_id": 111111,
+      "answer_count": 86,
+      "community_owned_date": 1370514175,
+      "score": 7639,
+      "locked_date": 1497372465,
+      "last_activity_date": 1583772215,
+      "creation_date": 1222006327,
+      "last_edit_date": 1491746117,
+      "question_id": 111102,
+      "link": "https://stackoverflow.com/questions/111102/how-do-javascript-closures-work",
+      "title": "How do JavaScript closures work?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "jquery",
+        "dom",
+        "visibility"
+      ],
+      "owner": {
+        "reputation": 113747,
+        "user_id": 21709,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/3ea9c684a2db319df788cecc6c98f9cd?s=128&d=identicon&r=PG",
+        "display_name": "Philip Morton",
+        "link": "https://stackoverflow.com/users/21709/philip-morton"
+      },
+      "is_answered": true,
+      "view_count": 2600146,
+      "protected_date": 1578133711,
+      "accepted_answer_id": 178450,
+      "answer_count": 57,
+      "score": 7624,
+      "last_activity_date": 1583157535,
+      "creation_date": 1223384598,
+      "last_edit_date": 1583157535,
+      "question_id": 178325,
+      "link": "https://stackoverflow.com/questions/178325/how-do-i-check-if-an-element-is-hidden-in-jquery",
+      "title": "How do I check if an element is hidden in jQuery?"
+    },
+    {
+      "tags": [
+        "git",
+        "git-checkout",
+        "git-reset",
+        "git-revert"
+      ],
+      "owner": {
+        "reputation": 75718,
+        "user_id": 111174,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/94f2f4d10581cebd4432a10f66fec19f?s=128&d=identicon&r=PG",
+        "display_name": "Crazy Serb",
+        "link": "https://stackoverflow.com/users/111174/crazy-serb"
+      },
+      "is_answered": true,
+      "view_count": 5749359,
+      "protected_date": 1506140086,
+      "accepted_answer_id": 4114122,
+      "answer_count": 44,
+      "score": 7556,
+      "last_activity_date": 1583421312,
+      "creation_date": 1289062694,
+      "last_edit_date": 1576501372,
+      "question_id": 4114095,
+      "link": "https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit",
+      "title": "How do I revert a Git repository to a previous commit?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "syntax",
+        "jslint",
+        "use-strict"
+      ],
+      "owner": {
+        "reputation": 85694,
+        "user_id": 25847,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/34d142b034e7b194fc1708f3b20d9568?s=128&d=identicon&r=PG",
+        "display_name": "Mark Rogers",
+        "link": "https://stackoverflow.com/users/25847/mark-rogers"
+      },
+      "is_answered": true,
+      "view_count": 1060258,
+      "protected_date": 1370840538,
+      "accepted_answer_id": 1335881,
+      "answer_count": 27,
+      "score": 7465,
+      "last_activity_date": 1581056855,
+      "creation_date": 1251303013,
+      "last_edit_date": 1485135002,
+      "question_id": 1335851,
+      "link": "https://stackoverflow.com/questions/1335851/what-does-use-strict-do-in-javascript-and-what-is-the-reasoning-behind-it",
+      "title": "What does &quot;use strict&quot; do in JavaScript, and what is the reasoning behind it?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "string",
+        "substring",
+        "string-matching"
+      ],
+      "owner": {
+        "reputation": 18487,
+        "user_id": 131679,
+        "user_type": "registered",
+        "accept_rate": 63,
+        "profile_image": "https://www.gravatar.com/avatar/4cb7f78dca34d0e27931f743f3aa1f30?s=128&d=identicon&r=PG",
+        "display_name": "gramm",
+        "link": "https://stackoverflow.com/users/131679/gramm"
+      },
+      "is_answered": true,
+      "view_count": 5958782,
+      "protected_date": 1351859467,
+      "accepted_answer_id": 1789952,
+      "answer_count": 4,
+      "community_owned_date": 1388363490,
+      "score": 7428,
+      "locked_date": 1522910801,
+      "last_activity_date": 1583322281,
+      "creation_date": 1259067869,
+      "last_edit_date": 1554297428,
+      "question_id": 1789945,
+      "link": "https://stackoverflow.com/questions/1789945/how-to-check-whether-a-string-contains-a-substring-in-javascript",
+      "title": "How to check whether a string contains a substring in JavaScript?"
+    },
+    {
+      "tags": [
+        "html",
+        "browser",
+        "background-color"
+      ],
+      "owner": {
+        "reputation": 73082,
+        "user_id": 456584,
+        "user_type": "registered",
+        "accept_rate": 88,
+        "profile_image": "https://i.stack.imgur.com/uoYDJ.png?s=128&g=1",
+        "display_name": "user456584",
+        "link": "https://stackoverflow.com/users/456584/user456584"
+      },
+      "is_answered": true,
+      "view_count": 514870,
+      "protected_date": 1360160534,
+      "accepted_answer_id": 8333464,
+      "answer_count": 9,
+      "score": 7389,
+      "last_activity_date": 1581419499,
+      "creation_date": 1322607262,
+      "last_edit_date": 1573753502,
+      "question_id": 8318911,
+      "link": "https://stackoverflow.com/questions/8318911/why-does-html-think-chucknorris-is-a-color",
+      "title": "Why does HTML think “chucknorris” is a color?"
+    },
+    {
+      "tags": [
+        "json",
+        "comments"
+      ],
+      "owner": {
+        "reputation": 84766,
+        "user_id": 4105,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/b478ef877842b1da9cdead7848572372?s=128&d=identicon&r=PG",
+        "display_name": "Michael Gundlach",
+        "link": "https://stackoverflow.com/users/4105/michael-gundlach"
+      },
+      "is_answered": true,
+      "view_count": 2172631,
+      "protected_date": 1504847411,
+      "accepted_answer_id": 244858,
+      "answer_count": 50,
+      "score": 7387,
+      "last_activity_date": 1582422773,
+      "creation_date": 1225226343,
+      "last_edit_date": 1469201960,
+      "question_id": 244777,
+      "link": "https://stackoverflow.com/questions/244777/can-comments-be-used-in-json",
+      "title": "Can comments be used in JSON?"
+    },
+    {
+      "tags": [
+        "git",
+        "version-control",
+        "overwrite",
+        "git-pull",
+        "git-fetch"
+      ],
+      "owner": {
+        "reputation": 73901,
+        "user_id": 98046,
+        "user_type": "registered",
+        "accept_rate": 69,
+        "profile_image": "https://i.stack.imgur.com/i1oB2.jpg?s=128&g=1",
+        "display_name": "Jakub Troszok",
+        "link": "https://stackoverflow.com/users/98046/jakub-troszok"
+      },
+      "is_answered": true,
+      "view_count": 4537153,
+      "protected_date": 1380552735,
+      "accepted_answer_id": 8888015,
+      "answer_count": 43,
+      "score": 6945,
+      "last_activity_date": 1579538406,
+      "creation_date": 1247583495,
+      "last_edit_date": 1575273909,
+      "question_id": 1125968,
+      "link": "https://stackoverflow.com/questions/1125968/how-do-i-force-git-pull-to-overwrite-local-files",
+      "title": "How do I force &quot;git pull&quot; to overwrite local files?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "function",
+        "syntax",
+        "idioms"
+      ],
+      "owner": {
+        "reputation": 77827,
+        "user_id": 31569,
+        "user_type": "registered",
+        "accept_rate": 96,
+        "profile_image": "https://www.gravatar.com/avatar/2d71a937d0e784ea99153ce46afb9fb1?s=128&d=identicon&r=PG",
+        "display_name": "Richard Garside",
+        "link": "https://stackoverflow.com/users/31569/richard-garside"
+      },
+      "is_answered": true,
+      "view_count": 997078,
+      "protected_date": 1370840753,
+      "accepted_answer_id": 336868,
+      "answer_count": 39,
+      "score": 6772,
+      "last_activity_date": 1583595773,
+      "creation_date": 1228303867,
+      "last_edit_date": 1580222564,
+      "question_id": 336859,
+      "link": "https://stackoverflow.com/questions/336859/var-functionname-function-vs-function-functionname",
+      "title": "var functionName = function() {} vs function functionName() {}"
+    },
+    {
+      "tags": [
+        "java",
+        "date",
+        "timezone"
+      ],
+      "owner": {
+        "reputation": 163227,
+        "user_id": 342235,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/88e5a9eb011a73ab970ddc8cfb05ff85?s=128&d=identicon&r=PG",
+        "display_name": "Freewind",
+        "link": "https://stackoverflow.com/users/342235/freewind"
+      },
+      "is_answered": true,
+      "view_count": 645799,
+      "protected_date": 1433866025,
+      "accepted_answer_id": 6841479,
+      "answer_count": 9,
+      "score": 6749,
+      "last_activity_date": 1582664873,
+      "creation_date": 1311754558,
+      "last_edit_date": 1574157563,
+      "question_id": 6841333,
+      "link": "https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result",
+      "title": "Why is subtracting these two times (in 1927) giving a strange result?"
+    },
+    {
+      "tags": [
+        "git",
+        "branch",
+        "git-branch"
+      ],
+      "owner": {
+        "reputation": 279456,
+        "user_id": 4883,
+        "user_type": "registered",
+        "accept_rate": 82,
+        "profile_image": "https://www.gravatar.com/avatar/a92525f049e20db8f4ce3d62f3f0bb2b?s=128&d=identicon&r=PG",
+        "display_name": "Readonly",
+        "link": "https://stackoverflow.com/users/4883/readonly"
+      },
+      "is_answered": true,
+      "view_count": 2207107,
+      "protected_date": 1389656959,
+      "accepted_answer_id": 64966,
+      "answer_count": 36,
+      "score": 6717,
+      "last_activity_date": 1580937128,
+      "creation_date": 1221383170,
+      "last_edit_date": 1564946341,
+      "question_id": 61212,
+      "link": "https://stackoverflow.com/questions/61212/how-to-remove-local-untracked-files-from-the-current-git-working-tree",
+      "title": "How to remove local (untracked) files from the current Git working tree"
+    },
+    {
+      "tags": [
+        "git",
+        "git-checkout",
+        "remote-branch"
+      ],
+      "owner": {
+        "reputation": 68941,
+        "user_id": 179467,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/e736f7016a80c3807e7cace569024ab8?s=128&d=identicon&r=PG",
+        "display_name": "Juri Glass",
+        "link": "https://stackoverflow.com/users/179467/juri-glass"
+      },
+      "is_answered": true,
+      "view_count": 5078832,
+      "protected_date": 1368094052,
+      "accepted_answer_id": 1783426,
+      "answer_count": 31,
+      "score": 6574,
+      "last_activity_date": 1579170542,
+      "creation_date": 1258986226,
+      "last_edit_date": 1495365347,
+      "question_id": 1783405,
+      "link": "https://stackoverflow.com/questions/1783405/how-do-i-check-out-a-remote-git-branch",
+      "title": "How do I check out a remote Git branch?"
+    },
+    {
+      "tags": [
+        "java",
+        "methods",
+        "parameter-passing",
+        "pass-by-reference",
+        "pass-by-value"
+      ],
+      "owner": {
+        "reputation": 4695,
+        "user_id": 4315,
+        "user_type": "registered",
+        "display_name": "user4315",
+        "link": "https://stackoverflow.com/users/4315/user4315"
+      },
+      "is_answered": true,
+      "view_count": 1934384,
+      "protected_date": 1308938923,
+      "answer_count": 90,
+      "community_owned_date": 1347646975,
+      "score": 6432,
+      "last_activity_date": 1584074716,
+      "creation_date": 1220386469,
+      "last_edit_date": 1531308668,
+      "question_id": 40480,
+      "link": "https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value",
+      "title": "Is Java &quot;pass-by-reference&quot; or &quot;pass-by-value&quot;?"
+    },
+    {
+      "tags": [
+        "c#",
+        ".net",
+        "string",
+        "types",
+        "alias"
+      ],
+      "owner": {
+        "reputation": 24917,
+        "user_id": 571,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/c1f0bb6c6d36ab5aba3fdacd1db03bf1?s=128&d=identicon&r=PG",
+        "display_name": "Lance Fisher",
+        "link": "https://stackoverflow.com/users/571/lance-fisher"
+      },
+      "is_answered": true,
+      "view_count": 1060920,
+      "protected_date": 1335106652,
+      "accepted_answer_id": 7077,
+      "answer_count": 67,
+      "community_owned_date": 1349347041,
+      "score": 6406,
+      "last_activity_date": 1583436129,
+      "creation_date": 1218352682,
+      "last_edit_date": 1530117722,
+      "question_id": 7074,
+      "link": "https://stackoverflow.com/questions/7074/what-is-the-difference-between-string-and-string-in-c",
+      "title": "What is the difference between String and string in C#?"
+    },
+    {
+      "tags": [
+        "javascript",
+        "javascript-objects"
+      ],
+      "owner": {
+        "reputation": 80150,
+        "user_id": 27929,
+        "user_type": "registered",
+        "accept_rate": 41,
+        "profile_image": "https://www.gravatar.com/avatar/8b141abc20af8ebe4667df467a73cc15?s=128&d=identicon&r=PG",
+        "display_name": "johnstok",
+        "link": "https://stackoverflow.com/users/27929/johnstok"
+      },
+      "is_answered": true,
+      "view_count": 2151793,
+      "protected_date": 1319135227,
+      "accepted_answer_id": 208106,
+      "answer_count": 42,
+      "score": 6017,
+      "last_activity_date": 1580301596,
+      "creation_date": 1224154665,
+      "last_edit_date": 1579494128,
+      "question_id": 208105,
+      "link": "https://stackoverflow.com/questions/208105/how-do-i-remove-a-property-from-a-javascript-object",
+      "title": "How do I remove a property from a JavaScript object?"
+    },
+    {
+      "tags": [
+        "python",
+        "operators",
+        "ternary-operator",
+        "conditional-operator"
+      ],
+      "owner": {
+        "reputation": 79473,
+        "user_id": 51518,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/eb5a95cb1be342c4089183cd8232a7f2?s=128&d=identicon&r=PG",
+        "display_name": "Devoted",
+        "link": "https://stackoverflow.com/users/51518/devoted"
+      },
+      "is_answered": true,
+      "view_count": 1857182,
+      "protected_date": 1370841342,
+      "accepted_answer_id": 394814,
+      "answer_count": 24,
+      "community_owned_date": 1358001430,
+      "score": 5848,
+      "last_activity_date": 1583909883,
+      "creation_date": 1230366738,
+      "last_edit_date": 1565359946,
+      "question_id": 394809,
+      "link": "https://stackoverflow.com/questions/394809/does-python-have-a-ternary-conditional-operator",
+      "title": "Does Python have a ternary conditional operator?"
+    },
+    {
+      "tags": [
+        "python",
+        "namespaces",
+        "main",
+        "python-module",
+        "idioms"
+      ],
+      "owner": {
+        "reputation": 79473,
+        "user_id": 51518,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://www.gravatar.com/avatar/eb5a95cb1be342c4089183cd8232a7f2?s=128&d=identicon&r=PG",
+        "display_name": "Devoted",
+        "link": "https://stackoverflow.com/users/51518/devoted"
+      },
+      "is_answered": true,
+      "view_count": 2789048,
+      "protected_date": 1365246276,
+      "accepted_answer_id": 419185,
+      "answer_count": 31,
+      "score": 5831,
+      "last_activity_date": 1582751084,
+      "creation_date": 1231301460,
+      "last_edit_date": 1582751084,
+      "question_id": 419163,
+      "link": "https://stackoverflow.com/questions/419163/what-does-if-name-main-do",
+      "title": "What does if __name__ == &quot;__main__&quot;: do?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 10000,
+  "quota_remaining": 9994
+}
